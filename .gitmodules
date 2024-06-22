@@ -1,3 +1,11 @@
 [submodule "path/to/submodule"]
 	path = path/to/submodule
 	url = https://github.com/AhmedAlfahal/Capstone.git
+[submodule "Capstone"]
+    path = Capstone
+    url = https://github.com/AhmedAlfahal/Capstone.git
+
+[submodule "frontend"]
+    path = frontend
+    url = https://github.com/AhmedAlfahal/frontend.git
+
